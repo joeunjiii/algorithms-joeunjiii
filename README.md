@@ -1,7 +1,7 @@
 # 🌸🐍 파이썬 알고리즘을 풀어요! (백준 허브 연동)
 
-<p> **목표:** 하루 한 문제! 꾸준히 성장하는 알고리즘 실력 기록 저장소</p>
- **현재 단계별로 문제푸는 중...🤫(쉿)**
+<p> **목표**: 하루 한 문제! 꾸준히 성장하는 알고리즘 실력 기록 저장소</p>
+ ****현재 단계별로 문제푸는 중...🤫(쉿)****
 
 <p align="left">
   <a href="https://www.python.org/"> <img alt="Python" src="https://img.shields.io/badge/Python-3.10%2B-ffb6c1?logo=python&logoColor=white"> </a>
