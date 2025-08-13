@@ -4,9 +4,8 @@
 
 <p align="left">
   <a href="https://www.python.org/"> <img alt="Python" src="https://img.shields.io/badge/Python-3.10%2B-ffb6c1?logo=python&logoColor=white"> </a>
-  <img alt="Solved.ac" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jo_eunjii">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joeunjiii&repo=algorithms-joeunjiii" />
 </p>
+  <img alt="Solved.ac" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jo_eunjii">
 
 ---
 
@@ -65,6 +64,11 @@ GitHub Stats:
 MIT License 💕
 
 ---
+
+## REPO📪
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joeunjiii&repo=algorithms-joeunjiii" />
+</p>
 
 💡 **오늘도 한 문제, 내일도 한 걸음!** 🌷
 
