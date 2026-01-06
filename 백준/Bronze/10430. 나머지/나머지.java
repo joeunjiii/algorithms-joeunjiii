@@ -1,12 +1,15 @@
-import java.util.Scanner;
+import java.io.*;
+import java.util.*;
 
-public class Main{
-    public static void main(String[] args) {
-        Scanner next = new Scanner(System.in);
+public class Main  {
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer(br.readLine());
         
-        long A = next.nextLong();
-        long B = next.nextLong();
-        long C = next.nextLong();
+        
+        long A = Long.parseLong(st.nextToken());
+        long B = Long.parseLong(st.nextToken());
+        long C = Long.parseLong(st.nextToken());
         
         System.out.println((A + B) % C);
         System.out.println(((A % C) + (B % C)) % C);
