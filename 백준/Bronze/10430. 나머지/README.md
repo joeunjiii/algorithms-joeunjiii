@@ -33,7 +33,8 @@
 -
 
 [첫 코드]
-```
+
+```java
 import java.util.Scanner;
 
 public class Main{
@@ -51,6 +52,7 @@ public class Main{
     }
 }
 ```
+
 
 1) Scanner
 
