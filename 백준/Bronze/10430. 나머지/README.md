@@ -33,7 +33,7 @@
 -
 
 [첫 코드]
-
+```
 import java.util.Scanner;
 
 public class Main{
@@ -50,7 +50,7 @@ public class Main{
         System.out.println(((A % C) * (B % C)) % C);
     }
 }
-
+```
 
 1) Scanner
 
